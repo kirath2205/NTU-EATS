@@ -1,0 +1,8 @@
+ABOUT US
+
+Curious to know where to eat? Have a budget to maintain, at the same time have a cusine in mind?
+Well,you have come to the right place!
+NTU EATS is a NTU food and restaurant recommendation system, used for helping students 
+and staff discover great places to eat around them.
+The system provides a list of food joints on campus,with their respective details.Besides, it also
+allows you to sort the canteens based on your preferences.
